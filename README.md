@@ -1,4 +1,4 @@
-# pendelpanda.de
+# Deutsche Bahn Fast Search Saved Connections
 
 ### Code
 This is the code from the website pendelpanda.de in php and javascript. It uses a mysql database via mysqli (optionally for saving stations). 
